@@ -1,1 +1,2 @@
 https://www.freecodecamp.org/news/react-suspense/
+gRPC for collaboration real time, rooms.
