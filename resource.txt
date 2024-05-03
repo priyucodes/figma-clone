@@ -1,0 +1,17 @@
+fabricjs for canvas element
+https://leidson.medium.com/real-time-collaboration-with-nextjs-building-interactive-multi-user-applications-91b5eabd3a05
+https://www.nextapp.co/updates/real-time-collaboration-is-here
+
+https://liveblocks.io/solutions/collaborative-nextjs-application we are using this
+https://www.nextapp.co/updates/real-time-collaboration-is-here
+https://dev.to/devab/next-js-real-time-team-collaboration-is-here-p18
+
+https://github.com/howardchung/watchparty
+
+https://www.youtube.com/watch?v=SVD372XDFQQ
+
+https://medium.com/@ethanryan/making-a-simple-real-time-collaboration-app-with-react-node-express-and-yjs-a261597fdd44
+
+https://blog.bitsrc.io/real-time-collaboration-made-easy-building-a-real-time-collaboration-service-with-node-js-grpc-98f0c00a32bc?gi=679e6546a0df
+
+Socket IO or gprc
