@@ -327,7 +327,7 @@ export const handleCanvasObjectScaling = ({
     ? selectedElement?.height! * selectedElement?.scaleY
     : selectedElement?.height;
 
-  setElementAttributes((prev) => ({
+  setElementAttributes(prev => ({
     ...prev,
     width: scaledWidth?.toFixed(0).toString() || "",
     height: scaledHeight?.toFixed(0).toString() || "",
@@ -357,7 +357,7 @@ export const renderCanvas = ({
     fabric.util.enlivenObjects(
       [objectData],
       (enlivenedObjects: fabric.Object[]) => {
-        enlivenedObjects.forEach((enlivenedObj) => {
+        enlivenedObjects.forEach(enlivenedObj => {
           // if element is active, keep it in active state so that it can be edited further
           if (activeObjectRef.current?.objectId === objectId) {
             fabricRef.current?.setActiveObject(enlivenedObj);
