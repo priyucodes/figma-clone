@@ -21,6 +21,12 @@ const Live = () => {
   const others = useOthers();
   const broadcast = useBroadcastEvent();
 
+  useInterval(() => {
+    setReaction(reaction => {
+      return reaction.filter(r => r.timestamp > Date.now() - 4000);
+    });
+  }, 100);
+
   const [{ cursor }, updateMyPresence] = useMyPresence() as any;
 
   useInterval(() => {
