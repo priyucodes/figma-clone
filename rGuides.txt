@@ -1,3 +1,11 @@
 https://www.freecodecamp.org/news/react-suspense/
 gRPC for collaboration real time, rooms.
 https://github.com/GizmoDevelopment/ramune uses live collaboration
+https://cord.com/?gad_source=1
+https://liveblocks.io/
+https://dyte.io/
+
+JSM MASTERY
+https://www.youtube.com/watch?v=oKIThIihv60
+
+https://github.com/adrianhajdin/figma_clone/blob/main/components/reaction/index.module.css
